@@ -1,0 +1,24 @@
+body {
+  background: url("../images/background_image.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #FFF3E0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #00E676;
+}
+
+.col-md-8, .col-md-6 {
+  background-color: rgba(20, 20, 20, 0.4);
+  box-shadow: 0 0 5px 10px rgba(20, 20, 20, 0.4);
+}
+
+.btn-default {
+  background-color: #00E676;
+  border: #00E676;
+  color: #FFF3E0;
+}
