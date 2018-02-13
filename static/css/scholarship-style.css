@@ -1,0 +1,20 @@
+body {
+  background: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: black;
+  font-family: 'Montserrat', serif;
+}
+
+a {
+  color: rgb(50, 50, 50);
+}
+
+.btn-default {
+  background-color: white;
+  border-color: black;
+  border-width: 2px;
+  color: black;
+}
